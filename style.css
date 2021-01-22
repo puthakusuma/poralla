@@ -1,0 +1,48 @@
+    body {
+        padding: 0%;
+        margin: 0%;
+        position: relative;
+    }
+    /* navbar section--------------------------------- */
+    
+    a {
+        font-size: medium;
+        text-decoration: none;
+        padding: 3%;
+        margin-left: 4%;
+    }
+    
+    a:hover {
+        background-color: green;
+        text-decoration: none;
+        padding: 3%;
+    }
+    
+    .navb-head {
+        margin-left: 7%;
+        margin-top: 2%;
+    }
+    
+    .navb-font {
+        font-size: larger;
+        font-weight: 800;
+        font-style: inherit;
+    }
+    
+    .navb-paa {
+        display: flex;
+        margin-top: 3%;
+    }
+    
+    .navb-ul {
+        margin-left: 10%;
+        padding-left: 35%;
+    }
+    /* --------------------------------/navbar section */
+    /* head section------------------------------- */
+    
+    .navb-pace {
+        display: flex;
+        margin-left: 10%;
+    }
+    /* ----------------------------/head */
